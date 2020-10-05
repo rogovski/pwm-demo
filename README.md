@@ -15,6 +15,7 @@ npm install -g expo
 clone and build
 
 ```
+git clone https://github.com/rogovski/pwm-demo.git
 cd pwm-demo
 npm install
 npm run web
