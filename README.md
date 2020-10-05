@@ -1,6 +1,8 @@
 # About
 
-cool button with react-native. works on web and (should) work on android and ios
+cool button with react-native. It works on web and it (should) work on android and ios.
+
+![](pwm-button.gif)
 
 # Usage
 
