@@ -9,7 +9,7 @@ A cool button with react-native. It works on web and it (should) work on android
 install expo globally.
 
 ```
-npm install -g expo
+npm install -g expo-cli
 ```
 
 clone and build.
